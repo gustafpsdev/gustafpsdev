@@ -111,7 +111,7 @@ Roadmap estratégico para evolução de processos operacionais e de segurança e
 
 ## 📫 Contato
 
-[![GitHub](https://img.shields.io/badge/GitHub-536D82?logo=github&logoColor=white)](https://github.com/gustafpsdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-536D82?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-paiva-b38a22333/)
 
 ---
 
