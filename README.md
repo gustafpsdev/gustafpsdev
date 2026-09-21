@@ -26,7 +26,7 @@ Atuo com o ecossistema Microsoft 365, oferecendo suporte a uma grande base de us
 
 ## 📌 Projetos
 
-### Inventário e Gestão de Ativos de TI
+### [Inventário e Gestão de Ativos de TI](https://github.com/gustafpsdev/inventario-ti)
 
 Sistema desenvolvido para centralizar o controle do ciclo de vida de ativos de TI.
 
@@ -48,7 +48,7 @@ Solução para acompanhar o estoque de suprimentos de impressão e reduzir risco
 - **Tecnologias:** SharePoint, Power Apps e Power Automate
 - **Status:** concluído e em operação
 
-### Bot de Suporte de TI com RAG
+### [Bot de Suporte de TI com RAG](https://github.com/gustafpsdev/bot-suporte-rag)
 
 Protótipo de assistente para responder dúvidas recorrentes de suporte com base em uma documentação própria.
 
@@ -59,7 +59,7 @@ Protótipo de assistente para responder dúvidas recorrentes de suporte com base
 - **Tecnologias:** Python, TF-IDF, similaridade de cosseno e API Anthropic
 - **Status:** protótipo funcional
 
-### Automação de Triagem de Currículos
+### [Automação de Triagem de Currículos](https://github.com/gustafpsdev/triagem-curriculos)
 
 Projeto para automatizar a leitura, organização e classificação inicial de currículos.
 
@@ -70,7 +70,7 @@ Projeto para automatizar a leitura, organização e classificação inicial de c
 - **Tecnologias:** Python, processamento de documentos, automação e banco de dados
 - **Status:** em desenvolvimento
 
-### TravelCash
+### [TravelCash](https://github.com/gustafpsdev/travelcash)
 
 Aplicação acadêmica full-stack para planejamento e acompanhamento financeiro de viagens.
 
@@ -81,7 +81,7 @@ Aplicação acadêmica full-stack para planejamento e acompanhamento financeiro 
 - **Tecnologias:** Node.js, Express, JavaScript, HTML e CSS
 - **Status:** projeto acadêmico funcional
 
-### Monitor de Preços de Fornecedores
+### [Monitor de Preços de Fornecedores](https://github.com/gustafpsdev/monitor-precos-fornecedores)
 
 Protótipo de automação para consultar preços, organizar comparações e apoiar decisões de compra.
 
