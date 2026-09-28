@@ -26,6 +26,22 @@ Atuo com o ecossistema Microsoft 365, oferecendo suporte a uma grande base de us
 
 ## 📌 Projetos
 
+### [Helpdesk Dashboard](https://github.com/gustafpsdev/helpdesk-dashboard)
+
+Painel em Python para acompanhar volume de chamados, backlog, SLA e tempo de resolução, com dados de demonstração e relatório HTML.
+
+### [Provisionamento de Usuários M365](https://github.com/gustafpsdev/m365-user-provisioning)
+
+Scripts PowerShell para onboarding e offboarding via Microsoft Graph, com mapeamento de licenças e grupos por função e modo de demonstração.
+
+### [Auditor de Licenças M365](https://github.com/gustafpsdev/m365-license-auditor)
+
+Relatório em PowerShell que identifica licenças sem uso e estima custos e oportunidades de recuperação, com dados fictícios para demonstração.
+
+### [PC Health Check](https://github.com/gustafpsdev/pc-health-check)
+
+Diagnóstico de computadores Windows em PowerShell com relatório HTML e orientações para o suporte.
+
 ### [Inventário e Gestão de Ativos de TI](https://github.com/gustafpsdev/inventario-ti)
 
 Sistema desenvolvido para centralizar o controle do ciclo de vida de ativos de TI.
@@ -105,7 +121,6 @@ Roadmap estratégico para evolução de processos operacionais e de segurança e
 
 ## 🚀 Próximos projetos
 
-- **Auditor de Licenças Microsoft 365** — identificação de licenças ociosas e estimativa de economia
 - **Intune as Code** — versionamento e aplicação de políticas de segurança por pipeline
 - **Classificador de Chamados** — uso de NLP para categorizar solicitações de suporte de TI
 
